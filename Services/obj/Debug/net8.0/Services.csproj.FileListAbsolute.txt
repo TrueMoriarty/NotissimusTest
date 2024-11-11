@@ -1,0 +1,15 @@
+A:\testovie\Notissimus\Services\bin\Debug\net8.0\Services.deps.json
+A:\testovie\Notissimus\Services\bin\Debug\net8.0\Services.dll
+A:\testovie\Notissimus\Services\bin\Debug\net8.0\Services.pdb
+A:\testovie\Notissimus\Services\bin\Debug\net8.0\DAL.dll
+A:\testovie\Notissimus\Services\bin\Debug\net8.0\DAL.pdb
+A:\testovie\Notissimus\Services\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
+A:\testovie\Notissimus\Services\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+A:\testovie\Notissimus\Services\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+A:\testovie\Notissimus\Services\obj\Debug\net8.0\Services.AssemblyInfo.cs
+A:\testovie\Notissimus\Services\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+A:\testovie\Notissimus\Services\obj\Debug\net8.0\Services.csproj.Up2Date
+A:\testovie\Notissimus\Services\obj\Debug\net8.0\Services.dll
+A:\testovie\Notissimus\Services\obj\Debug\net8.0\refint\Services.dll
+A:\testovie\Notissimus\Services\obj\Debug\net8.0\Services.pdb
+A:\testovie\Notissimus\Services\obj\Debug\net8.0\ref\Services.dll

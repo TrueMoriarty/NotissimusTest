@@ -1,0 +1,14 @@
+A:\testovie\Notissimus\DAL\bin\Debug\net8.0\DAL.deps.json
+A:\testovie\Notissimus\DAL\bin\Debug\net8.0\DAL.dll
+A:\testovie\Notissimus\DAL\bin\Debug\net8.0\DAL.pdb
+A:\testovie\Notissimus\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+A:\testovie\Notissimus\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+A:\testovie\Notissimus\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+A:\testovie\Notissimus\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+A:\testovie\Notissimus\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+A:\testovie\Notissimus\DAL\obj\Debug\net8.0\DAL.dll
+A:\testovie\Notissimus\DAL\obj\Debug\net8.0\refint\DAL.dll
+A:\testovie\Notissimus\DAL\obj\Debug\net8.0\DAL.pdb
+A:\testovie\Notissimus\DAL\obj\Debug\net8.0\ref\DAL.dll
+A:\testovie\Notissimus\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
+A:\testovie\Notissimus\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
