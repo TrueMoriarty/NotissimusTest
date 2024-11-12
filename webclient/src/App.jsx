@@ -54,12 +54,4 @@ function App() {
   );
 }
 
-const top100Films = [
-  { text: "The Shawshank Redemption", year: 1994 },
-  { text: "The Godfather", year: 1972 },
-  { text: "The Godfather: Part II", year: 1974 },
-  { text: "The Dark Knight", year: 2008 },
-  { text: "12 Angry Men", year: 1957 },
-];
-
 export default App;

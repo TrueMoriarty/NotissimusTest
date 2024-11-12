@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "a:\\testovie\\Notissimus\\NotissimusTestovoe\\NotissimusTestovoe.csproj": {}
+    "A:\\testovie\\Notissimus\\NotissimusTestovoe\\NotissimusTestovoe.csproj": {}
   },
   "projects": {
-    "a:\\testovie\\Notissimus\\DAL\\DAL.csproj": {
+    "A:\\testovie\\Notissimus\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "a:\\testovie\\Notissimus\\DAL\\DAL.csproj",
+        "projectUniqueName": "A:\\testovie\\Notissimus\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "a:\\testovie\\Notissimus\\DAL\\DAL.csproj",
+        "projectPath": "A:\\testovie\\Notissimus\\DAL\\DAL.csproj",
         "packagesPath": "C:\\Users\\arsla\\.nuget\\packages\\",
-        "outputPath": "a:\\testovie\\Notissimus\\DAL\\obj\\",
+        "outputPath": "A:\\testovie\\Notissimus\\DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "A:\\SDK Visual Studio\\NuGetPackages"
@@ -89,14 +89,14 @@
         }
       }
     },
-    "a:\\testovie\\Notissimus\\NotissimusTestovoe\\NotissimusTestovoe.csproj": {
+    "A:\\testovie\\Notissimus\\NotissimusTestovoe\\NotissimusTestovoe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "a:\\testovie\\Notissimus\\NotissimusTestovoe\\NotissimusTestovoe.csproj",
+        "projectUniqueName": "A:\\testovie\\Notissimus\\NotissimusTestovoe\\NotissimusTestovoe.csproj",
         "projectName": "NotissimusTestovoe",
-        "projectPath": "a:\\testovie\\Notissimus\\NotissimusTestovoe\\NotissimusTestovoe.csproj",
+        "projectPath": "A:\\testovie\\Notissimus\\NotissimusTestovoe\\NotissimusTestovoe.csproj",
         "packagesPath": "C:\\Users\\arsla\\.nuget\\packages\\",
-        "outputPath": "a:\\testovie\\Notissimus\\NotissimusTestovoe\\obj\\",
+        "outputPath": "A:\\testovie\\Notissimus\\NotissimusTestovoe\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "A:\\SDK Visual Studio\\NuGetPackages"
@@ -118,11 +118,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "a:\\testovie\\Notissimus\\DAL\\DAL.csproj": {
-                "projectPath": "a:\\testovie\\Notissimus\\DAL\\DAL.csproj"
+              "A:\\testovie\\Notissimus\\DAL\\DAL.csproj": {
+                "projectPath": "A:\\testovie\\Notissimus\\DAL\\DAL.csproj"
               },
-              "a:\\testovie\\Notissimus\\Services\\Services.csproj": {
-                "projectPath": "a:\\testovie\\Notissimus\\Services\\Services.csproj"
+              "A:\\testovie\\Notissimus\\Services\\Services.csproj": {
+                "projectPath": "A:\\testovie\\Notissimus\\Services\\Services.csproj"
               }
             }
           }
@@ -164,14 +164,14 @@
         }
       }
     },
-    "a:\\testovie\\Notissimus\\Services\\Services.csproj": {
+    "A:\\testovie\\Notissimus\\Services\\Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "a:\\testovie\\Notissimus\\Services\\Services.csproj",
+        "projectUniqueName": "A:\\testovie\\Notissimus\\Services\\Services.csproj",
         "projectName": "Services",
-        "projectPath": "a:\\testovie\\Notissimus\\Services\\Services.csproj",
+        "projectPath": "A:\\testovie\\Notissimus\\Services\\Services.csproj",
         "packagesPath": "C:\\Users\\arsla\\.nuget\\packages\\",
-        "outputPath": "a:\\testovie\\Notissimus\\Services\\obj\\",
+        "outputPath": "A:\\testovie\\Notissimus\\Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "A:\\SDK Visual Studio\\NuGetPackages"
@@ -193,8 +193,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "a:\\testovie\\Notissimus\\DAL\\DAL.csproj": {
-                "projectPath": "a:\\testovie\\Notissimus\\DAL\\DAL.csproj"
+              "A:\\testovie\\Notissimus\\DAL\\DAL.csproj": {
+                "projectPath": "A:\\testovie\\Notissimus\\DAL\\DAL.csproj"
               }
             }
           }

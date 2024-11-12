@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MdbeC+w+8Pcx/rA+QosXiWSJePlC0xZH9YovKX6CrZxWQqHkxhvEVx+COgeTheKK5yAP0IFw2J+defhU/1q0KQ==",
+  "dgSpecHash": "OAQhQJCiUCOVyVB3IuIDF9HzRA/Qa9mS7fEj/UCLjMCW2rzWvxxFyaO64JTl2YmU7bSlWAlw/SyJxbRk4InvDA==",
   "success": true,
-  "projectFilePath": "a:\\testovie\\Notissimus\\NotissimusTestovoe\\NotissimusTestovoe.csproj",
+  "projectFilePath": "A:\\testovie\\Notissimus\\NotissimusTestovoe\\NotissimusTestovoe.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\arsla\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.10\\microsoft.entityframeworkcore.8.0.10.nupkg.sha512",
     "C:\\Users\\arsla\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.10\\microsoft.entityframeworkcore.abstractions.8.0.10.nupkg.sha512",
